@@ -1,0 +1,56 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity auto-generated files
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# OSX-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Unity metadata files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Packed sprite atlas
+*.spriteatlasv2
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
